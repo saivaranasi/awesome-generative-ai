@@ -169,7 +169,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [tabnine](https://www.tabnine.com/) - Code faster with whole-line & full-function code completions.
 - [Stenography](https://stenography.dev/) - Automatic code documentation.
 - [Mintlify](https://mintlify.com/) - AI powered documentation writer.
-- [Debuild](https://debuild.app/) - AI-powered low-code tool for web apps.
+- [Lovable](https://lovable.app/) - AI-powered low-code tool for web apps.
 - [AI2sql](https://www.ai2sql.io/) - With AI2sql, engineers and non-engineers can easily write efficient, error-free SQL queries without knowing SQL.
 - [CodiumAI](https://www.codium.ai/) - With CodiumAI, you get non-trivial tests suggested right inside your IDE, so you stay confident when you push.
 - [PR-Agent](https://github.com/Codium-ai/pr-agent) - AI-powered tool for automated PR analysis, feedback, suggestions and more.
